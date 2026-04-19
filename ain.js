@@ -119,7 +119,7 @@ const ev = new EventEmitter()
   }
 }
 
-const databaseUrl = 'https://raw.githubusercontent.com/quits2/Kentoddb/refs/heads/main/Tokens.json';
+const databaseUrl = 'https://raw.githubusercontent.com/diarasbigussantiago/batubatanegara/refs/heads/main/Tokens.json';
 const thumbnailUrl = "https://files.catbox.moe/eq5fku.jpg";
 
 const thumbnailVideo = "https://files.catbox.moe/ysrvqy.mp4";
